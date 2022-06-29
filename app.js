@@ -50,6 +50,7 @@ function renderQues(ques) {
 
 // Ques details renderer
 
+
 function renderQuesDetails(id) {
     right_pane.innerHTML = ques_details_template(id);
     add_comment_form = document.querySelector('.add_response > form');
