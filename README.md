@@ -4,5 +4,4 @@ It is a discussion portal where one user can add questions and the other user ca
 * Bootstrap
 * CSS
 * JavaScript
-* Jquery
 * Web Storage API
